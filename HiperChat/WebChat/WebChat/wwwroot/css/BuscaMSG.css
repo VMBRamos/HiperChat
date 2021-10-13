@@ -1,0 +1,18 @@
+﻿
+
+#buscaMSG {
+
+    width:200px;
+    height:35px;
+    margin-bottom: 10px;
+    border-radius:5px;
+
+}
+
+#btn {
+    overflow: visible;
+    border-radius: 5px;
+    width: 60PX;
+    height: 35px;
+    background-color: #d1ccd1;
+}

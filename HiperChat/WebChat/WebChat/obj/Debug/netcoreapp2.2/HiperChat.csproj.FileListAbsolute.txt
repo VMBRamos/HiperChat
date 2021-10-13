@@ -1,0 +1,78 @@
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.deps.json
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.runtimeconfig.json
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.runtimeconfig.dev.json
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.dll
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.pdb
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.Views.dll
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.Views.pdb
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.csproj.AssemblyReference.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.AssemblyInfoInputs.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.AssemblyInfo.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.csproj.CoreCompileInputs.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorAssemblyInfo.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorAssemblyInfo.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.TagHelpers.input.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.TagHelpers.output.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorCoreGenerate.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Create.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Delete.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Details.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Edit.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Index.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorTargetAssemblyInfo.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorTargetAssemblyInfo.cs
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.Views.pdb
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.dll
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.pdb
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.genruntimeconfig.cache
+C:\Users\ate96\Desktop\25_09 HIPERACADEMIA - NEW HTML\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.csproj.CopyComplete
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\appsettings.json
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.deps.json
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.runtimeconfig.json
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.runtimeconfig.dev.json
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.dll
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.pdb
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.Views.dll
+C:\HiperChat\HiperChat\WebChat\WebChat\bin\Debug\netcoreapp2.2\HiperChat.Views.pdb
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.AssemblyInfoInputs.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.AssemblyInfo.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.csproj.CoreCompileInputs.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorAssemblyInfo.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorAssemblyInfo.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.TagHelpers.input.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.TagHelpers.output.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorCoreGenerate.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Create.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Delete.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Details.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Edit.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\RespostaChats\Index.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorTargetAssemblyInfo.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.RazorTargetAssemblyInfo.cs
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.Views.pdb
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.dll
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.pdb
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.genruntimeconfig.cache
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.csproj.CopyComplete
+C:\HiperChat\HiperChat\WebChat\WebChat\obj\Debug\netcoreapp2.2\HiperChat.csproj.AssemblyReference.cache

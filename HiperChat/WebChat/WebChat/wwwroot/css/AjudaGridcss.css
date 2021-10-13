@@ -1,0 +1,122 @@
+﻿body {
+    background-color: #F2F5F7;
+    font-family: 'Open Sans',Arial,sans-serif;
+}
+
+.container {
+    width: 94%;
+    margin: 0 auto;
+}
+
+.conteudoPrincipal {
+    left:150px;
+}
+
+.conteudoPrincipal-Lista-link {
+    height: 100px;
+    background-color: #FFF;
+    text-align: center;
+    margin: 1%;
+    transition: .3s;
+    box-shadow: 2px 2px 2px #CCC;
+    position: relative;
+}
+
+    .conteudoPrincipal-Lista-link a {
+        text-decoration: none;
+        color: #000;
+        font-weight: bold;
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .conteudoPrincipal-Lista-link:hover {
+        box-shadow: 4px 4px 4px #CCC;
+    }
+
+    .conteudoPrincipal-Lista-link a:before {
+        content: '';
+        display: block;
+        width: 50px;
+        height: 50px;
+        margin: 10px auto;
+    }
+
+    .conteudoPrincipal-Lista-link:nth-child(1) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(2) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(3) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(4) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(5) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(6) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(7) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(8) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(9) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(10) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+    .conteudoPrincipal-Lista-link:nth-child(11) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+
+    .conteudoPrincipal-Lista-link:nth-child(12) a:before {
+        background: url(../css/AssuntosGerais.svg) no-repeat;
+    }
+
+
+
+
+/*mudar aqui classe pai*/
+.conteudoPrincipal-Lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+/*classe filho do conteudo*/
+.conteudoPrincipal-Lista-link {
+    width: 30%;
+    margin: 1%;
+    border-radius: 5px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h2, .h2 {
+    font-size: x-large;
+    text-align: center;
+}
+
+.container-logo{
+    width:300px;
+    height:300px;
+   
+}
+

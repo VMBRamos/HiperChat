@@ -1,0 +1,33 @@
+﻿@model WebChat.Models.RespostaChat
+
+@{
+    ViewData["Title"] = "Apagar Mensagens";
+}
+
+<h1>Apagar</h1>
+
+<h3>Você tem certeza que deseja apagar? :)</h3>
+<div>
+    <h4>Resposta Chats</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Resposta)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Resposta)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Mensagem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Mensagem)
+        </dd>
+    </dl>
+    
+    <form asp-action="Apagar">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Apagar" class="btn btn-danger" /> |
+        <a asp-action="Index">Voltar a Lista</a>
+    </form>
+</div>
